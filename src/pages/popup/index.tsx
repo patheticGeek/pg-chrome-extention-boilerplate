@@ -1,8 +1,10 @@
 import React from 'react'
 import { render } from 'react-dom'
 import App from './App'
+import { setup } from 'twind'
+import 'twind/shim'
 
-console.log('popup script')
+setup()
 
 const root = document.querySelector('#root')
 

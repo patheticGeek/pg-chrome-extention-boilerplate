@@ -2,9 +2,9 @@ import React from 'react'
 
 const App = (): JSX.Element => {
   return (
-    <div>
-      <h1>Popup Page</h1>
-      <p>If you are seeing this, React is working!</p>
+    <div className="w-80 h-60 flex flex-col items-center justify-center text-center">
+      <h1 className="text-2xl font-medium">Popup Page</h1>
+      <p className="text-lg mt-2">If you are seeing this, React is working!</p>
     </div>
   )
 }
