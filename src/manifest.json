@@ -14,6 +14,11 @@
 
   "permissions": [],
 
+  "options_ui": {
+    "page": "pages/options/index.html",
+    "open_in_tab": true
+  },
+
   "action": {
     "default_popup": "pages/popup/index.html"
   }
