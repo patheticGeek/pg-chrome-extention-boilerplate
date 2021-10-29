@@ -27,6 +27,7 @@ export default {
     }),
     chromeExtension(),
     // Adds a Chrome extension reloader during watch mode
+    // TODO: Service worker gives error
     simpleReloader(),
     resolve(),
     commonjs(),
