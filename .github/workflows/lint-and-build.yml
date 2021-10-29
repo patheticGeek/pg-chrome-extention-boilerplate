@@ -26,3 +26,4 @@ jobs:
           name: build.zip
           path: dist/build.zip
           if-no-files-found: error
+          retention-days: 2
