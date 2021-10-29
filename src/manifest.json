@@ -19,6 +19,10 @@
     "open_in_tab": true
   },
 
+  "background": {
+    "service_worker": "service_worker.ts"
+  },
+
   "action": {
     "default_popup": "pages/popup/index.html"
   }

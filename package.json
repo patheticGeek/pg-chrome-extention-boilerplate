@@ -43,7 +43,7 @@
     "prettier": "^2.4.1",
     "prettier-config-standard": "^4.0.0",
     "rollup": "^2.58.3",
-    "rollup-plugin-chrome-extension": "^3.6.4",
+    "rollup-plugin-chrome-extension": "~3.6.4",
     "rollup-plugin-empty-dir": "^1.0.5",
     "rollup-plugin-zip": "^1.0.3",
     "tslib": "^2.3.1",
